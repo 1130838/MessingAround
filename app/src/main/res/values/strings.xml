@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MessingAround</string>
+    <string name="action_settings">Settings</string>
+    <string name="res_textView_name">Hello! What is your name ?</string>
+    <string name="res_editText_name">Your name here</string>
+    <string name="res_girl">girl</string>
+    <string name="res_textView_question">Do you make blowjobs ?</string>
+    <string name="res_btn_yes">Yes</string>
+    <string name="res_btn_no">No</string>
+</resources>
